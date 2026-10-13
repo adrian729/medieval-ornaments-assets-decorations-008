@@ -1,0 +1,1732 @@
+[
+  {
+    "description": "Finite connected acanthus panel with the original central lovers and inhabiting animals.",
+    "categories": [
+      "floral",
+      "fantasy",
+      "humans"
+    ],
+    "subjects": [
+      "acanthus",
+      "leaf",
+      "scroll",
+      "figure",
+      "bird",
+      "animal"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "black",
+      "cream",
+      "gray"
+    ],
+    "composition": "single-ornament",
+    "name": "acanthus-panel-with-two-lovers-and-inhabiting-animals",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "nga-3382",
+    "png": "png/acanthus-panel-with-two-lovers-and-inhabiting-animals.png",
+    "webp": "webp/acanthus-panel-with-two-lovers-and-inhabiting-animals.webp",
+    "width": 4055,
+    "height": 2739,
+    "png_bytes": 18808958,
+    "webp_bytes": 11765508,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/acanthus-panel-with-two-lovers-and-inhabiting-animals.png",
+        "webp": "webp/128/acanthus-panel-with-two-lovers-and-inhabiting-animals.webp",
+        "width": 128,
+        "height": 86,
+        "png_bytes": 40785,
+        "webp_bytes": 28050
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/acanthus-panel-with-two-lovers-and-inhabiting-animals.png",
+        "webp": "webp/256/acanthus-panel-with-two-lovers-and-inhabiting-animals.webp",
+        "width": 256,
+        "height": 173,
+        "png_bytes": 153721,
+        "webp_bytes": 101094
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/acanthus-panel-with-two-lovers-and-inhabiting-animals.png",
+        "webp": "webp/512/acanthus-panel-with-two-lovers-and-inhabiting-animals.webp",
+        "width": 512,
+        "height": 346,
+        "png_bytes": 541672,
+        "webp_bytes": 352302
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/acanthus-panel-with-two-lovers-and-inhabiting-animals.png",
+        "webp": "webp/768/acanthus-panel-with-two-lovers-and-inhabiting-animals.webp",
+        "width": 768,
+        "height": 519,
+        "png_bytes": 1106227,
+        "webp_bytes": 733042
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "National Gallery of Art, Washington",
+      "title": "Ornament Panel with Two Lovers",
+      "object_identifier": "1943.3.170",
+      "date": "c. 1490/1500",
+      "artist": "Israhel van Meckenem",
+      "record_url": "https://www.nga.gov/collection/art-object-page.3382.html",
+      "image_rights": "Open Access / public domain; official image dataset openaccess=1",
+      "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+      "source_sha256": "e77fbec4fbd1f8058e7b895fca796490aaa564e2f0689069578c82213f88c13f",
+      "image_url": "https://api.nga.gov/iiif/e0108f4c-e9b4-482b-8e78-2c20f96d32a6/full/full/0/default.jpg",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Complete finite original engraved ornamental network. Actual contacting figures/props remain together. Native original source and exact AI ownership-guide prompt retained; no repeat or new frame corners inferred. Separate source-visible independent figures are considered in the source audit before source completion.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4096,
+      "height": 2774
+    },
+    "master_longest_dimension_cap": 4055,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Original vertical candelabra ornament supported by two blindfolded women, with its contacting upper grotesque.",
+    "categories": [
+      "floral",
+      "fantasy",
+      "humans"
+    ],
+    "subjects": [
+      "woman",
+      "blindfold",
+      "candelabra",
+      "vase",
+      "leaf",
+      "scroll",
+      "figure"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "black",
+      "cream",
+      "gray"
+    ],
+    "composition": "single-ornament",
+    "name": "candelabra-supported-by-two-blindfolded-women",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "nga-4342",
+    "png": "png/candelabra-supported-by-two-blindfolded-women.png",
+    "webp": "webp/candelabra-supported-by-two-blindfolded-women.webp",
+    "width": 668,
+    "height": 3969,
+    "png_bytes": 4715497,
+    "webp_bytes": 2753858,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/candelabra-supported-by-two-blindfolded-women.png",
+        "webp": "webp/128/candelabra-supported-by-two-blindfolded-women.webp",
+        "width": 22,
+        "height": 128,
+        "png_bytes": 9992,
+        "webp_bytes": 7252
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/candelabra-supported-by-two-blindfolded-women.png",
+        "webp": "webp/256/candelabra-supported-by-two-blindfolded-women.webp",
+        "width": 43,
+        "height": 256,
+        "png_bytes": 35220,
+        "webp_bytes": 24246
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/candelabra-supported-by-two-blindfolded-women.png",
+        "webp": "webp/512/candelabra-supported-by-two-blindfolded-women.webp",
+        "width": 86,
+        "height": 512,
+        "png_bytes": 123626,
+        "webp_bytes": 86528
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/candelabra-supported-by-two-blindfolded-women.png",
+        "webp": "webp/768/candelabra-supported-by-two-blindfolded-women.webp",
+        "width": 129,
+        "height": 768,
+        "png_bytes": 259748,
+        "webp_bytes": 168418
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "National Gallery of Art, Washington",
+      "title": "Panel of Ornament with Candelabra Supported by Two Blindfolded Women",
+      "object_identifier": "1943.3.1124",
+      "date": "1527",
+      "artist": "Sebald Beham",
+      "record_url": "https://www.nga.gov/collection/art-object-page.4342.html",
+      "image_rights": "Open Access / public domain; official image dataset openaccess=1",
+      "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+      "source_sha256": "bb3572d81c8158b018e6610ac5dee17dce31a41b3b1968e6e9f7f3065f8be556",
+      "image_url": "https://api.nga.gov/iiif/856e5bd3-3852-4884-94e1-50ea4c8b44fb/full/full/0/default.jpg",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "One complete connected candelabra ornament. The separate date/artist-monogram panel below it is excluded; visible figure ends around its original occlusion remain unaltered. No hidden anatomy or new border/corners reconstructed.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 745,
+      "height": 4096
+    },
+    "master_longest_dimension_cap": 3969,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The complete wide leafy scroll and the small child near the center physically gripping its stems; all the original broad lobed leaves, narrow curls, figure arms and existing anatomy. Do not split the figure from the scroll.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "scroll",
+      "leaf",
+      "ornament"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "child-gripping-wide-foliate-scroll",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "nga-3518",
+    "png": "png/child-gripping-wide-foliate-scroll.png",
+    "webp": "webp/child-gripping-wide-foliate-scroll.webp",
+    "width": 1996,
+    "height": 776,
+    "png_bytes": 3155571,
+    "webp_bytes": 2108550,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/child-gripping-wide-foliate-scroll.png",
+        "webp": "webp/128/child-gripping-wide-foliate-scroll.webp",
+        "width": 128,
+        "height": 50,
+        "png_bytes": 22572,
+        "webp_bytes": 16096
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/child-gripping-wide-foliate-scroll.png",
+        "webp": "webp/256/child-gripping-wide-foliate-scroll.webp",
+        "width": 256,
+        "height": 100,
+        "png_bytes": 79429,
+        "webp_bytes": 54722
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/child-gripping-wide-foliate-scroll.png",
+        "webp": "webp/512/child-gripping-wide-foliate-scroll.webp",
+        "width": 512,
+        "height": 199,
+        "png_bytes": 268881,
+        "webp_bytes": 177936
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/child-gripping-wide-foliate-scroll.png",
+        "webp": "webp/768/child-gripping-wide-foliate-scroll.webp",
+        "width": 768,
+        "height": 299,
+        "png_bytes": 563966,
+        "webp_bytes": 370040
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "National Gallery of Art, Washington",
+      "title": "Ornament with Foliage and a Child in the Center",
+      "object_identifier": "1943.3.306",
+      "date": "1539",
+      "artist": "Heinrich Aldegrever",
+      "record_url": "https://www.nga.gov/collection/art-object-page.3518.html",
+      "image_rights": "Open Access / public domain; official image dataset openaccess=1",
+      "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+      "source_sha256": "eeb867c42896e50b933e7969ef52c3c8be0c159b775da27e6b9cc2da70a738eb",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Finite connected engraving; no seamless cycle or new corner atlas inferred. Actual source-truncated ends are retained without extensions. AI-assisted background extraction, not a pixel-exact crop; original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4096,
+      "height": 1608
+    },
+    "master_longest_dimension_cap": 1996,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The complete connected fluted vase, its original paired flared horn-like stems at the crown, central shaft and every broad curled leaf and stem on both sides.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "scroll",
+      "leaf",
+      "ornament"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "fluted-vase-with-horns-and-broad-leaf-scroll",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "nga-3510",
+    "png": "png/fluted-vase-with-horns-and-broad-leaf-scroll.png",
+    "webp": "webp/fluted-vase-with-horns-and-broad-leaf-scroll.webp",
+    "width": 1563,
+    "height": 981,
+    "png_bytes": 3228579,
+    "webp_bytes": 2114926,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/fluted-vase-with-horns-and-broad-leaf-scroll.png",
+        "webp": "webp/128/fluted-vase-with-horns-and-broad-leaf-scroll.webp",
+        "width": 128,
+        "height": 80,
+        "png_bytes": 35776,
+        "webp_bytes": 23994
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/fluted-vase-with-horns-and-broad-leaf-scroll.png",
+        "webp": "webp/256/fluted-vase-with-horns-and-broad-leaf-scroll.webp",
+        "width": 256,
+        "height": 161,
+        "png_bytes": 123569,
+        "webp_bytes": 84488
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/fluted-vase-with-horns-and-broad-leaf-scroll.png",
+        "webp": "webp/512/fluted-vase-with-horns-and-broad-leaf-scroll.webp",
+        "width": 512,
+        "height": 321,
+        "png_bytes": 426192,
+        "webp_bytes": 273370
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/fluted-vase-with-horns-and-broad-leaf-scroll.png",
+        "webp": "webp/768/fluted-vase-with-horns-and-broad-leaf-scroll.webp",
+        "width": 768,
+        "height": 482,
+        "png_bytes": 895888,
+        "webp_bytes": 572734
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "National Gallery of Art, Washington",
+      "title": "Ornament",
+      "object_identifier": "1943.3.298",
+      "date": "1532",
+      "artist": "Heinrich Aldegrever",
+      "record_url": "https://www.nga.gov/collection/art-object-page.3510.html",
+      "image_rights": "Open Access / public domain; official image dataset openaccess=1",
+      "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+      "source_sha256": "13a81be272e29a803fa2b793c5522aa47f1f40fa70ac22a12ae0c49293588ca7",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Finite connected engraving; no seamless cycle or new corner atlas inferred. Actual source-truncated ends are retained without extensions. AI-assisted background extraction, not a pixel-exact crop; original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3198,
+      "height": 2028
+    },
+    "master_longest_dimension_cap": 1563,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A foliate vine rising from a hairy grotesque mask. Part of the Ornament with Naked Couple (nga-3513) set.",
+    "categories": [
+      "floral",
+      "scrollwork",
+      "hybrids"
+    ],
+    "subjects": [
+      "leaf",
+      "vine",
+      "scroll",
+      "grotesque",
+      "mask"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "black",
+      "cream",
+      "gray"
+    ],
+    "composition": "single-ornament",
+    "name": "foliate-vine-with-hairy-grotesque-mask",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "nga-3513",
+    "png": "png/foliate-vine-with-hairy-grotesque-mask.png",
+    "webp": "webp/foliate-vine-with-hairy-grotesque-mask.webp",
+    "width": 201,
+    "height": 828,
+    "png_bytes": 224212,
+    "webp_bytes": 126680,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/foliate-vine-with-hairy-grotesque-mask.png",
+        "webp": "webp/128/foliate-vine-with-hairy-grotesque-mask.webp",
+        "width": 31,
+        "height": 128,
+        "png_bytes": 9674,
+        "webp_bytes": 6110
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/foliate-vine-with-hairy-grotesque-mask.png",
+        "webp": "webp/256/foliate-vine-with-hairy-grotesque-mask.webp",
+        "width": 62,
+        "height": 256,
+        "png_bytes": 32800,
+        "webp_bytes": 20298
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/foliate-vine-with-hairy-grotesque-mask.png",
+        "webp": "webp/512/foliate-vine-with-hairy-grotesque-mask.webp",
+        "width": 124,
+        "height": 512,
+        "png_bytes": 111515,
+        "webp_bytes": 65398
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/foliate-vine-with-hairy-grotesque-mask.png",
+        "webp": "webp/768/foliate-vine-with-hairy-grotesque-mask.webp",
+        "width": 186,
+        "height": 768,
+        "png_bytes": 219773,
+        "webp_bytes": 130062
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "National Gallery of Art, Washington",
+      "title": "Ornament with Naked Couple",
+      "object_identifier": "1943.3.301",
+      "date": "1532",
+      "artist": "Heinrich Aldegrever",
+      "record_url": "https://www.nga.gov/collection/art-object-page.3513.html",
+      "image_rights": "Open Access / public domain; official image dataset openaccess=1",
+      "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+      "source_sha256": "72175da7e93941f643aff6367d0344477dc3809d402474a3839ee1790756c182",
+      "image_url": "https://api.nga.gov/iiif/4d055d56-0445-4536-bc24-abb9222d01c2/full/full/0/default.jpg",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Independent native foliate vine with its mask base, kept together. The neighboring couple, crosshatched print ground, plate rule and caption are excluded. Only source-visible foliage and mask are retained, including the original artist’s truncations/occlusion at the neighboring figure. No new hidden hair, leaf tips, stems or portrait.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "nga-3513-set",
+        "name": "Ornament with Naked Couple (nga-3513)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 945,
+      "height": 4096
+    },
+    "master_longest_dimension_cap": 828,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Interacting centaur figures and riders, with six human heads, weapons and a connected leafy frieze.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "centaur",
+      "rider",
+      "person",
+      "weapon",
+      "leaf",
+      "scroll"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "interacting-centaurs-and-riders-in-foliate-frieze",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "nga-4270",
+    "png": "png/interacting-centaurs-and-riders-in-foliate-frieze.png",
+    "webp": "webp/interacting-centaurs-and-riders-in-foliate-frieze.webp",
+    "width": 2091,
+    "height": 693,
+    "png_bytes": 2920264,
+    "webp_bytes": 1933814,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/interacting-centaurs-and-riders-in-foliate-frieze.png",
+        "webp": "webp/128/interacting-centaurs-and-riders-in-foliate-frieze.webp",
+        "width": 128,
+        "height": 42,
+        "png_bytes": 17849,
+        "webp_bytes": 12906
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/interacting-centaurs-and-riders-in-foliate-frieze.png",
+        "webp": "webp/256/interacting-centaurs-and-riders-in-foliate-frieze.webp",
+        "width": 256,
+        "height": 85,
+        "png_bytes": 62012,
+        "webp_bytes": 43282
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/interacting-centaurs-and-riders-in-foliate-frieze.png",
+        "webp": "webp/512/interacting-centaurs-and-riders-in-foliate-frieze.webp",
+        "width": 512,
+        "height": 170,
+        "png_bytes": 213362,
+        "webp_bytes": 142022
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/interacting-centaurs-and-riders-in-foliate-frieze.png",
+        "webp": "webp/768/interacting-centaurs-and-riders-in-foliate-frieze.webp",
+        "width": 768,
+        "height": 255,
+        "png_bytes": 452158,
+        "webp_bytes": 296444
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "National Gallery of Art, Washington",
+      "title": "Frieze with Centaurs",
+      "object_identifier": "1943.3.1052",
+      "date": "1521",
+      "artist": "Sebald Beham",
+      "record_url": "https://www.nga.gov/collection/art-object-page.4270.html",
+      "image_rights": "Open Access / public domain; official image dataset openaccess=1",
+      "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+      "source_sha256": "e06daa09be73b5d6222da2465b7776bb7cdd9a37a4d7995ae4fd7ee9acfb6d42",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole finite source ornament with original contacting figures and shared props retained. No seamless period or new frame corners inferred. AI-assisted extraction is approximate, not a pixel-exact crop; original, exact prompt and native resolution caps retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4096,
+      "height": 1415
+    },
+    "master_longest_dimension_cap": 2091,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A large bearded mask with a curled crown and paired long-beaked foliate heads.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "mask",
+      "beard",
+      "head",
+      "leaf",
+      "scroll"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "large-bearded-mask-with-paired-leafy-heads",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "nga-831",
+    "png": "png/large-bearded-mask-with-paired-leafy-heads.png",
+    "webp": "webp/large-bearded-mask-with-paired-leafy-heads.webp",
+    "width": 1525,
+    "height": 999,
+    "png_bytes": 3341728,
+    "webp_bytes": 2171040,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/large-bearded-mask-with-paired-leafy-heads.png",
+        "webp": "webp/128/large-bearded-mask-with-paired-leafy-heads.webp",
+        "width": 128,
+        "height": 84,
+        "png_bytes": 34849,
+        "webp_bytes": 24232
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/large-bearded-mask-with-paired-leafy-heads.png",
+        "webp": "webp/256/large-bearded-mask-with-paired-leafy-heads.webp",
+        "width": 256,
+        "height": 168,
+        "png_bytes": 121169,
+        "webp_bytes": 85308
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/large-bearded-mask-with-paired-leafy-heads.png",
+        "webp": "webp/512/large-bearded-mask-with-paired-leafy-heads.webp",
+        "width": 512,
+        "height": 335,
+        "png_bytes": 427009,
+        "webp_bytes": 271254
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/large-bearded-mask-with-paired-leafy-heads.png",
+        "webp": "webp/768/large-bearded-mask-with-paired-leafy-heads.webp",
+        "width": 768,
+        "height": 503,
+        "png_bytes": 925755,
+        "webp_bytes": 585890
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "National Gallery of Art, Washington",
+      "title": "Ornament Panel with a Large Bearded Mask",
+      "object_identifier": "1941.2.6",
+      "date": "1543",
+      "artist": "Sebald Beham",
+      "record_url": "https://www.nga.gov/collection/art-object-page.831.html",
+      "image_rights": "Open Access / public domain; official image dataset openaccess=1",
+      "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+      "source_sha256": "76395ee2c7ec392e3f7ce9d48e5f9c76278489908e52c0692d4d1f0831409f01",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole finite source ornament with original contacting figures and shared props retained. No seamless period or new frame corners inferred. AI-assisted extraction is approximate, not a pixel-exact crop; original, exact prompt and native resolution caps retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3644,
+      "height": 2396
+    },
+    "master_longest_dimension_cap": 1525,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The complete connected central palmette fan, both original fantastic long-beaked dolphin-like heads at lower left and right, both horn-shaped cups, all tendrils, curled leaves and connecting stems.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "scroll",
+      "leaf",
+      "ornament"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "palmette-with-paired-dolphin-heads-and-leaf-scroll",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "nga-832",
+    "png": "png/palmette-with-paired-dolphin-heads-and-leaf-scroll.png",
+    "webp": "webp/palmette-with-paired-dolphin-heads-and-leaf-scroll.webp",
+    "width": 1842,
+    "height": 773,
+    "png_bytes": 3025704,
+    "webp_bytes": 2067834,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/palmette-with-paired-dolphin-heads-and-leaf-scroll.png",
+        "webp": "webp/128/palmette-with-paired-dolphin-heads-and-leaf-scroll.webp",
+        "width": 128,
+        "height": 54,
+        "png_bytes": 25134,
+        "webp_bytes": 17626
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/palmette-with-paired-dolphin-heads-and-leaf-scroll.png",
+        "webp": "webp/256/palmette-with-paired-dolphin-heads-and-leaf-scroll.webp",
+        "width": 256,
+        "height": 107,
+        "png_bytes": 88666,
+        "webp_bytes": 60712
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/palmette-with-paired-dolphin-heads-and-leaf-scroll.png",
+        "webp": "webp/512/palmette-with-paired-dolphin-heads-and-leaf-scroll.webp",
+        "width": 512,
+        "height": 215,
+        "png_bytes": 301686,
+        "webp_bytes": 213928
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/palmette-with-paired-dolphin-heads-and-leaf-scroll.png",
+        "webp": "webp/768/palmette-with-paired-dolphin-heads-and-leaf-scroll.webp",
+        "width": 768,
+        "height": 322,
+        "png_bytes": 618851,
+        "webp_bytes": 412676
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "National Gallery of Art, Washington",
+      "title": "Ornament with Palmette and Two Dophin Heads",
+      "object_identifier": "1941.2.7",
+      "date": "c. 1540/1545",
+      "artist": "Sebald Beham",
+      "record_url": "https://www.nga.gov/collection/art-object-page.832.html",
+      "image_rights": "Open Access / public domain; official image dataset openaccess=1",
+      "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+      "source_sha256": "77669ce21967b4aaa8fdaabe0e1ba4ac0d742bdb9e45786b88cb0e3d9934f03c",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Finite connected engraving; no seamless cycle or new corner atlas inferred. Actual source-truncated ends are retained without extensions. AI-assisted background extraction, not a pixel-exact crop; original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4096,
+      "height": 1816
+    },
+    "master_longest_dimension_cap": 1842,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A seated child holding the stems of a tall branching leafy scroll.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "child",
+      "person",
+      "leaf",
+      "scroll"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "seated-child-holding-tall-leafy-scroll",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "nga-3511",
+    "png": "png/seated-child-holding-tall-leafy-scroll.png",
+    "webp": "webp/seated-child-holding-tall-leafy-scroll.webp",
+    "width": 1045,
+    "height": 1428,
+    "png_bytes": 2736550,
+    "webp_bytes": 1827656,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/seated-child-holding-tall-leafy-scroll.png",
+        "webp": "webp/128/seated-child-holding-tall-leafy-scroll.webp",
+        "width": 94,
+        "height": 128,
+        "png_bytes": 37823,
+        "webp_bytes": 24994
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/seated-child-holding-tall-leafy-scroll.png",
+        "webp": "webp/256/seated-child-holding-tall-leafy-scroll.webp",
+        "width": 187,
+        "height": 256,
+        "png_bytes": 122193,
+        "webp_bytes": 84020
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/seated-child-holding-tall-leafy-scroll.png",
+        "webp": "webp/512/seated-child-holding-tall-leafy-scroll.webp",
+        "width": 375,
+        "height": 512,
+        "png_bytes": 415231,
+        "webp_bytes": 271410
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/seated-child-holding-tall-leafy-scroll.png",
+        "webp": "webp/768/seated-child-holding-tall-leafy-scroll.webp",
+        "width": 562,
+        "height": 768,
+        "png_bytes": 883055,
+        "webp_bytes": 579478
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "National Gallery of Art, Washington",
+      "title": "Scroll Ornament with Seated Child",
+      "object_identifier": "1943.3.299",
+      "date": "1532",
+      "artist": "Heinrich Aldegrever",
+      "record_url": "https://www.nga.gov/collection/art-object-page.3511.html",
+      "image_rights": "Open Access / public domain; official image dataset openaccess=1",
+      "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+      "source_sha256": "f1b721853408b514a457665ac9d683a191c2834a5b7c3f2d67d82856dc831012",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole finite source ornament with original contacting figures and shared props retained. No seamless period or new frame corners inferred. AI-assisted extraction is approximate, not a pixel-exact crop; original, exact prompt and native resolution caps retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2541,
+      "height": 3488
+    },
+    "master_longest_dimension_cap": 1428,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A winding blue vine with six pointed leaves in red, blue and green, with opaque pale tips and white painted highlights.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "vine",
+      "leaves"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "red",
+      "green",
+      "white"
+    ],
+    "composition": "single-ornament",
+    "name": "six-leaf-blue-vine",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "openn-lewis-e-m-012-004",
+    "png": "png/six-leaf-blue-vine.png",
+    "webp": "webp/six-leaf-blue-vine.webp",
+    "width": 734,
+    "height": 1013,
+    "png_bytes": 905290,
+    "webp_bytes": 663412,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/six-leaf-blue-vine.png",
+        "webp": "webp/128/six-leaf-blue-vine.webp",
+        "width": 93,
+        "height": 128,
+        "png_bytes": 24766,
+        "webp_bytes": 19302
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/six-leaf-blue-vine.png",
+        "webp": "webp/256/six-leaf-blue-vine.webp",
+        "width": 185,
+        "height": 256,
+        "png_bytes": 79479,
+        "webp_bytes": 59416
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/six-leaf-blue-vine.png",
+        "webp": "webp/512/six-leaf-blue-vine.webp",
+        "width": 371,
+        "height": 512,
+        "png_bytes": 265389,
+        "webp_bytes": 195956
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/six-leaf-blue-vine.png",
+        "webp": "webp/768/six-leaf-blue-vine.webp",
+        "width": 556,
+        "height": 768,
+        "png_bytes": 553425,
+        "webp_bytes": 407972
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Free Library of Philadelphia, John Frederick Lewis Collection",
+      "title": "Decorated initial Q",
+      "object_identifier": "Lewis E M 12:4 Decorated initial Q",
+      "date": "(Unknown, 1400-1499)",
+      "record_url": "https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_012_004.html",
+      "image_rights": "Public Domain Mark 1.0; item record explicitly places images in public domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "d424f771be4b4d50fdfb497f173ac242c58e4f45bd972e557c0f33d23f4b6e86",
+      "image_url": "https://openn.library.upenn.edu/Data/0023/lewis_e_m_012_004/data/master/7529_0000.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Retained reviewed extraction; preserve its original proportions.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2292,
+      "height": 2288
+    },
+    "master_longest_dimension_cap": 1013,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "An original square floral ornament surrounding a circular medallion, with curled leaves, flowers and small winged figures.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "scroll",
+      "medallion",
+      "winged-figure"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "square-floral-ornament-with-circular-medallion",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "nga-5965",
+    "png": "png/square-floral-ornament-with-circular-medallion.png",
+    "webp": "webp/square-floral-ornament-with-circular-medallion.webp",
+    "width": 1245,
+    "height": 1248,
+    "png_bytes": 3483667,
+    "webp_bytes": 2530606,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/square-floral-ornament-with-circular-medallion.png",
+        "webp": "webp/128/square-floral-ornament-with-circular-medallion.webp",
+        "width": 128,
+        "height": 128,
+        "png_bytes": 47103,
+        "webp_bytes": 30980
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/square-floral-ornament-with-circular-medallion.png",
+        "webp": "webp/256/square-floral-ornament-with-circular-medallion.webp",
+        "width": 255,
+        "height": 256,
+        "png_bytes": 183616,
+        "webp_bytes": 114842
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/square-floral-ornament-with-circular-medallion.png",
+        "webp": "webp/512/square-floral-ornament-with-circular-medallion.webp",
+        "width": 511,
+        "height": 512,
+        "png_bytes": 691383,
+        "webp_bytes": 441816
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/square-floral-ornament-with-circular-medallion.png",
+        "webp": "webp/768/square-floral-ornament-with-circular-medallion.webp",
+        "width": 766,
+        "height": 768,
+        "png_bytes": 1482626,
+        "webp_bytes": 989926
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "National Gallery of Art, Washington",
+      "title": "Goldsmith's Ornament in Square",
+      "object_identifier": "1943.3.2790",
+      "date": "1580–1699 (catalog year range)",
+      "artist": "M. Christollien",
+      "record_url": "https://www.nga.gov/collection/art-object-page.5965.html",
+      "image_rights": "Open Access / public domain; official image dataset openaccess=1",
+      "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+      "source_sha256": "1ccf601e4ed3f8ef3300c4ac26361e39449a047142dd283d568e94c2e048c860",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole finite source ornament with original contacting figures and shared props retained. No seamless period or new frame corners inferred. AI-assisted extraction is approximate, not a pixel-exact crop; original, exact prompt and native resolution caps retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2644,
+      "height": 2648
+    },
+    "master_longest_dimension_cap": 1248,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A tall connected foliate grotesque with a female bust, two profile heads, an animal mask and a shell terminal. Part of the Ornament with Naked Couple (nga-3513) set.",
+    "categories": [
+      "floral",
+      "scrollwork",
+      "hybrids",
+      "humans",
+      "animals"
+    ],
+    "subjects": [
+      "acanthus",
+      "leaf",
+      "scroll",
+      "female-bust",
+      "profile-head",
+      "animal-mask",
+      "shell"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "cream",
+      "gray"
+    ],
+    "composition": "single-ornament",
+    "name": "tall-foliate-grotesque-with-female-and-animal-heads",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "nga-3513",
+    "png": "png/tall-foliate-grotesque-with-female-and-animal-heads.png",
+    "webp": "webp/tall-foliate-grotesque-with-female-and-animal-heads.webp",
+    "width": 638,
+    "height": 2038,
+    "png_bytes": 1956615,
+    "webp_bytes": 1124082,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/tall-foliate-grotesque-with-female-and-animal-heads.png",
+        "webp": "webp/128/tall-foliate-grotesque-with-female-and-animal-heads.webp",
+        "width": 40,
+        "height": 128,
+        "png_bytes": 16639,
+        "webp_bytes": 10786
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/tall-foliate-grotesque-with-female-and-animal-heads.png",
+        "webp": "webp/256/tall-foliate-grotesque-with-female-and-animal-heads.webp",
+        "width": 80,
+        "height": 256,
+        "png_bytes": 56671,
+        "webp_bytes": 35876
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/tall-foliate-grotesque-with-female-and-animal-heads.png",
+        "webp": "webp/512/tall-foliate-grotesque-with-female-and-animal-heads.webp",
+        "width": 160,
+        "height": 512,
+        "png_bytes": 188588,
+        "webp_bytes": 122906
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/tall-foliate-grotesque-with-female-and-animal-heads.png",
+        "webp": "webp/768/tall-foliate-grotesque-with-female-and-animal-heads.webp",
+        "width": 240,
+        "height": 768,
+        "png_bytes": 393102,
+        "webp_bytes": 246310
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "National Gallery of Art, Washington",
+      "title": "Ornament with Naked Couple",
+      "object_identifier": "1943.3.301",
+      "date": "1532",
+      "artist": "Heinrich Aldegrever",
+      "record_url": "https://www.nga.gov/collection/art-object-page.3513.html",
+      "image_rights": "Open Access / public domain; official image dataset openaccess=1",
+      "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+      "source_sha256": "72175da7e93941f643aff6367d0344477dc3809d402474a3839ee1790756c182",
+      "image_url": "https://api.nga.gov/iiif/4d055d56-0445-4536-bc24-abb9222d01c2/full/full/0/default.jpg",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "One original connected foliate grotesque, keeping its female torso, side profiles, animal mask, curled leaves and shell terminal together. The crosshatched rectangular print ground, plate rules and incomplete neighboring top cartouche are excluded. Original subject flesh/leaf surfaces and print hatching remain opaque at native scale. No mirrored replacement motif, inferred repeat or vector stand-in.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "nga-3513-set",
+        "name": "Ornament with Naked Couple (nga-3513)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 945,
+      "height": 4096
+    },
+    "master_longest_dimension_cap": 2038,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A tall connected foliate shaft with two masks, paired fantastic dolphin-like heads, flowers and broad curling leaves.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "mask",
+      "dolphin",
+      "flower",
+      "leaf",
+      "scroll"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "tall-foliate-shaft-with-paired-masks-and-dolphins",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "nga-3509",
+    "png": "png/tall-foliate-shaft-with-paired-masks-and-dolphins.png",
+    "webp": "webp/tall-foliate-shaft-with-paired-masks-and-dolphins.webp",
+    "width": 634,
+    "height": 2158,
+    "png_bytes": 3067488,
+    "webp_bytes": 2032540,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/tall-foliate-shaft-with-paired-masks-and-dolphins.png",
+        "webp": "webp/128/tall-foliate-shaft-with-paired-masks-and-dolphins.webp",
+        "width": 38,
+        "height": 128,
+        "png_bytes": 17622,
+        "webp_bytes": 12348
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/tall-foliate-shaft-with-paired-masks-and-dolphins.png",
+        "webp": "webp/256/tall-foliate-shaft-with-paired-masks-and-dolphins.webp",
+        "width": 75,
+        "height": 256,
+        "png_bytes": 62630,
+        "webp_bytes": 42494
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/tall-foliate-shaft-with-paired-masks-and-dolphins.png",
+        "webp": "webp/512/tall-foliate-shaft-with-paired-masks-and-dolphins.webp",
+        "width": 150,
+        "height": 512,
+        "png_bytes": 217888,
+        "webp_bytes": 151464
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/tall-foliate-shaft-with-paired-masks-and-dolphins.png",
+        "webp": "webp/768/tall-foliate-shaft-with-paired-masks-and-dolphins.webp",
+        "width": 226,
+        "height": 768,
+        "png_bytes": 452187,
+        "webp_bytes": 299926
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "National Gallery of Art, Washington",
+      "title": "Sprig of Ornamental Foliage with Two Masks and Two Dolphins",
+      "object_identifier": "1943.3.297",
+      "date": "1530",
+      "artist": "Heinrich Aldegrever",
+      "record_url": "https://www.nga.gov/collection/art-object-page.3509.html",
+      "image_rights": "Open Access / public domain; official image dataset openaccess=1",
+      "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+      "source_sha256": "890c1cb8ef807a2dd951cbf78b6e3457d5639f29403ea5113ce3133660d46367",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole finite source ornament with original contacting figures and shared props retained. No seamless period or new frame corners inferred. AI-assisted extraction is approximate, not a pixel-exact crop; original, exact prompt and native resolution caps retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 1210,
+      "height": 4096
+    },
+    "master_longest_dimension_cap": 2158,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A tall foliate shaft joining a horned face, a bearded mask, curling leaves and a lower vase terminal.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "mask",
+      "horn",
+      "beard",
+      "vase",
+      "leaf",
+      "scroll"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "tall-leafy-shaft-with-horned-and-bearded-masks",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "nga-3524",
+    "png": "png/tall-leafy-shaft-with-horned-and-bearded-masks.png",
+    "webp": "webp/tall-leafy-shaft-with-horned-and-bearded-masks.webp",
+    "width": 706,
+    "height": 2167,
+    "png_bytes": 3173312,
+    "webp_bytes": 2149246,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/tall-leafy-shaft-with-horned-and-bearded-masks.png",
+        "webp": "webp/128/tall-leafy-shaft-with-horned-and-bearded-masks.webp",
+        "width": 42,
+        "height": 128,
+        "png_bytes": 19936,
+        "webp_bytes": 13988
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/tall-leafy-shaft-with-horned-and-bearded-masks.png",
+        "webp": "webp/256/tall-leafy-shaft-with-horned-and-bearded-masks.webp",
+        "width": 83,
+        "height": 256,
+        "png_bytes": 70723,
+        "webp_bytes": 47538
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/tall-leafy-shaft-with-horned-and-bearded-masks.png",
+        "webp": "webp/512/tall-leafy-shaft-with-horned-and-bearded-masks.webp",
+        "width": 167,
+        "height": 512,
+        "png_bytes": 239235,
+        "webp_bytes": 165968
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/tall-leafy-shaft-with-horned-and-bearded-masks.png",
+        "webp": "webp/768/tall-leafy-shaft-with-horned-and-bearded-masks.webp",
+        "width": 250,
+        "height": 768,
+        "png_bytes": 484949,
+        "webp_bytes": 323700
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "National Gallery of Art, Washington",
+      "title": "Ornament",
+      "object_identifier": "1943.3.312",
+      "date": "1552",
+      "artist": "Heinrich Aldegrever",
+      "record_url": "https://www.nga.gov/collection/art-object-page.3524.html",
+      "image_rights": "Open Access / public domain; official image dataset openaccess=1",
+      "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+      "source_sha256": "6c80f9f9d699c63892dc3a8e5f17473f00b1be593bd40c12476a1c7d6d8f348f",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole finite source ornament with original contacting figures and shared props retained. No seamless period or new frame corners inferred. AI-assisted extraction is approximate, not a pixel-exact crop; original, exact prompt and native resolution caps retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 1334,
+      "height": 4096
+    },
+    "master_longest_dimension_cap": 2167,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A very tall engraved candelabrum with a violin-playing satyr, masks, curved foliage and a small lower figure.",
+    "categories": [
+      "humans",
+      "hybrids",
+      "music",
+      "floral"
+    ],
+    "subjects": [
+      "satyr",
+      "violin",
+      "mask",
+      "leaf",
+      "figure"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "tall-satyr-with-violin-candelabrum",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "nga-3661",
+    "png": "png/tall-satyr-with-violin-candelabrum.png",
+    "webp": "webp/tall-satyr-with-violin-candelabrum.webp",
+    "width": 597,
+    "height": 3948,
+    "png_bytes": 2746159,
+    "webp_bytes": 1626064,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/tall-satyr-with-violin-candelabrum.png",
+        "webp": "webp/128/tall-satyr-with-violin-candelabrum.webp",
+        "width": 19,
+        "height": 128,
+        "png_bytes": 5833,
+        "webp_bytes": 3216
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/tall-satyr-with-violin-candelabrum.png",
+        "webp": "webp/256/tall-satyr-with-violin-candelabrum.webp",
+        "width": 39,
+        "height": 256,
+        "png_bytes": 24534,
+        "webp_bytes": 12146
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/tall-satyr-with-violin-candelabrum.png",
+        "webp": "webp/512/tall-satyr-with-violin-candelabrum.webp",
+        "width": 77,
+        "height": 512,
+        "png_bytes": 99274,
+        "webp_bytes": 47360
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/tall-satyr-with-violin-candelabrum.png",
+        "webp": "webp/768/tall-satyr-with-violin-candelabrum.webp",
+        "width": 116,
+        "height": 768,
+        "png_bytes": 228503,
+        "webp_bytes": 108636
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "National Gallery of Art, Washington",
+      "title": "Ornament Panel: Satyr Holding a Violin",
+      "object_identifier": "1943.3.449",
+      "date": "c. 1505/1515",
+      "artist": "Giovanni Pietro Birago and Zoan Andrea",
+      "record_url": "https://www.nga.gov/collection/art-object-page.3661.html",
+      "image_rights": "Open Access / public domain; official image dataset openaccess=1",
+      "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+      "source_sha256": "1a053478d0a11db7276e017f64c1740433c7d6fd05757dff200209675e86200e",
+      "image_url": "https://api.nga.gov/iiif/10e03462-8b8f-41d2-8bf0-86feafe5a937/full/full/0/default.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Retain accepted native interior; recover previously clipped left artwork and actual plate rules from full original using the same native measured ink coverage. Remove paper outside the actual plate. No enlargement, perspective warp or drawing reconstruction. Finite original decoration; no repeat or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 760,
+      "height": 4096
+    },
+    "master_longest_dimension_cap": 3948,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A tall connected grotesque candelabrum with paired dragons, masks, helmets, shields and war instruments.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "dragon",
+      "mask",
+      "helmet",
+      "shield",
+      "weapon",
+      "candelabrum",
+      "scroll"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "war-candelabrum-with-dragons-masks-and-weapons",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "nga-3653",
+    "png": "png/war-candelabrum-with-dragons-masks-and-weapons.png",
+    "webp": "webp/war-candelabrum-with-dragons-masks-and-weapons.webp",
+    "width": 833,
+    "height": 1841,
+    "png_bytes": 3289472,
+    "webp_bytes": 2168342,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/war-candelabrum-with-dragons-masks-and-weapons.png",
+        "webp": "webp/128/war-candelabrum-with-dragons-masks-and-weapons.webp",
+        "width": 58,
+        "height": 128,
+        "png_bytes": 25832,
+        "webp_bytes": 17692
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/war-candelabrum-with-dragons-masks-and-weapons.png",
+        "webp": "webp/256/war-candelabrum-with-dragons-masks-and-weapons.webp",
+        "width": 116,
+        "height": 256,
+        "png_bytes": 93130,
+        "webp_bytes": 61012
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/war-candelabrum-with-dragons-masks-and-weapons.png",
+        "webp": "webp/512/war-candelabrum-with-dragons-masks-and-weapons.webp",
+        "width": 232,
+        "height": 512,
+        "png_bytes": 318559,
+        "webp_bytes": 220010
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/war-candelabrum-with-dragons-masks-and-weapons.png",
+        "webp": "webp/768/war-candelabrum-with-dragons-masks-and-weapons.webp",
+        "width": 347,
+        "height": 768,
+        "png_bytes": 656604,
+        "webp_bytes": 430980
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "National Gallery of Art, Washington",
+      "title": "Ornament Panel with Dragons, Masks, and Instruments of War",
+      "object_identifier": "1943.3.441",
+      "date": "c. 1505",
+      "artist": "Zoan Andrea",
+      "record_url": "https://www.nga.gov/collection/art-object-page.3653.html",
+      "image_rights": "Open Access / public domain; official image dataset openaccess=1",
+      "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+      "source_sha256": "aca0721ebc9e2836450f6882127231f9c2c9110ecd392c17b5b1a35d3b6e2047",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole finite source ornament with original contacting figures and shared props retained. No seamless period or new frame corners inferred. AI-assisted extraction is approximate, not a pixel-exact crop; original, exact prompt and native resolution caps retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 1867,
+      "height": 4096
+    },
+    "master_longest_dimension_cap": 1841,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  }
+]
